@@ -1,0 +1,13 @@
+.logo{
+    margin-left: 30px;
+}
+
+.logo img{
+    height: 60px;
+    border: 0px solid #ccc;
+}
+
+element.style {
+    background-color: white;
+    text-shadow: 0 0 black;
+}
