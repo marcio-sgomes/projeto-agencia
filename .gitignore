@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# variáveis de ambiente e sistema operacional
+.env
+Thumbs.db
+*.log
